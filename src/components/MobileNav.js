@@ -3,6 +3,13 @@ import { IoMdClose } from "react-icons/io";
 import { CgMenuRight } from "react-icons/cg";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import {
+  FaGithub,
+  FaWhatsapp,
+  FaInstagram,
+  FaLinkedinIn,
+  FaEnvelope,
+} from "react-icons/fa6";
 
 const menuVariants = {
   hidden: {
@@ -53,6 +60,40 @@ const MobileNav = () => {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+          <ul className="flex gap-x-4 ">
+            <li>
+              <a
+                className="hover:to-black"
+                href="https://www.linkedin.com/in/diaaspratama/"
+                target="_blank">
+                <FaLinkedinIn size={23} />
+              </a>
+            </li>
+
+            <li>
+              <a href="mailto:muhammaddias161@gmail.com" target="_blank">
+                <FaEnvelope size={23} />
+              </a>
+            </li>
+
+            <li>
+              <a href="https://wa.me/6285156131669" target="_blank">
+                <FaWhatsapp size={23} />
+              </a>
+            </li>
+
+            <li>
+              <a href="https://www.instagram.com/diaaspratama/" target="_blank">
+                <FaInstagram size={23} />
+              </a>
+            </li>
+
+            <li>
+              <a href="http://www.github.com" target="_blank">
+                <FaGithub size={23} />
+              </a>
+            </li>
+          </ul>
         </ul>
       </motion.div>
     </nav>
