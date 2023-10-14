@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-dias/static/css/main.b04c5a84.css",
+    "main.js": "/portfolio-dias/static/js/main.f3a649a4.js",
+    "static/media/tes1-min.png": "/portfolio-dias/static/media/tes1-min.076ebd9c7af87dabb076.png",
+    "static/media/Portfolio_Detail.pdf": "/portfolio-dias/static/media/Portfolio_Detail.1aeb5bc192a697725281.pdf",
+    "static/media/b4x6.PNG": "/portfolio-dias/static/media/b4x6.688805371ff8048b6141.PNG",
+    "static/media/2.jpg": "/portfolio-dias/static/media/2.f165df81e588b62651e2.jpg",
+    "static/media/1.jpg": "/portfolio-dias/static/media/1.84ebfc6a4cb0574d778a.jpg",
+    "static/media/5.jpg": "/portfolio-dias/static/media/5.a76c50c5f376794c48fb.jpg",
+    "static/media/4.jpg": "/portfolio-dias/static/media/4.f2c39f040875b279a7b5.jpg",
+    "static/media/3.jpg": "/portfolio-dias/static/media/3.85d06aa0ed3e4de6c854.jpg",
+    "static/media/tensorflow.png": "/portfolio-dias/static/media/tensorflow.5743c8d5ca24900220f1.png",
+    "static/media/CV.pdf": "/portfolio-dias/static/media/CV.711581f5b78079f1d565.pdf",
+    "static/media/react.png": "/portfolio-dias/static/media/react.e71f4c5b0c4306d65355.png",
+    "static/media/logo12.svg": "/portfolio-dias/static/media/logo12.b7642a7b4d79f494f5f120873ae2b554.svg",
+    "static/media/html.png": "/portfolio-dias/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-dias/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-dias/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-dias/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-dias/index.html",
+    "main.b04c5a84.css.map": "/portfolio-dias/static/css/main.b04c5a84.css.map",
+    "main.f3a649a4.js.map": "/portfolio-dias/static/js/main.f3a649a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04c5a84.css",
+    "static/js/main.f3a649a4.js"
+  ]
+}
