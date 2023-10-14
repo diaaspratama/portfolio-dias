@@ -39,7 +39,7 @@ const MobileNav = () => {
 
         <ul className="h-full flex flex-col justify-center items-center gap-y-8 text-primary font-primary font-bold text-3xl">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/portfolio-dias">Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>
